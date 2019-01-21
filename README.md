@@ -16,6 +16,10 @@ Originally, the whole idea of building this project had N consecutive points:
 5. Set the key amount of days that may pass without having to update the HTTP status.
 6. Run the application, update'm statutes'n'dates (if needed).
 
-Having done step 3, I realized I was able to retrieve-extract-reformat and import the first 1 million of world's most visited/popular websites (Alexa gave out coupies of a spcial .csv file about 5 years ago) into the DB
+Having done step 3, I realized I was able to retrieve-extract-reformat and import the first 1 million of world's most visited/popular websites (Alexa gave out coupies of a spcial .csv file about 5 years ago) into the DB.
+
+Nevertheless, it was my first time writting something in Java; never will I forget the amazing 9-hour ride from-zero-to-close-to-something.
+
+I realize my work is way below the emloyer's expectations. Nevertheless, it was my first time writting something in Java; never will I forget the amazing 9-hour ride from-zero-to-close-to-something.
 
 PS. Guess, I'll have to cut the amount of rows in the .db file down to 500k(?) in order to push it here, into github.
