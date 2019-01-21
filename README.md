@@ -23,3 +23,5 @@ Nevertheless, it was my first time writting something in Java; never will I forg
 I realize my work is way below the emloyer's expectations. Nevertheless, it was my first time writting something in Java; never will I forget the amazing 9-hour ride from-zero-to-close-to-something.
 
 PS. Guess, I'll have to cut the amount of rows in the .db file down to 500k(?) in order to push it here, into github. Let me know if you need a full list of a million indexed urls
+
+PPS. Там в updateUrls уже шиза какая-то и танцы с бубном, поэтому, возможно, потеряна даже небольшая часть того, что исправно работало
