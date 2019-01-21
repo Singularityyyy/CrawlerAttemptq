@@ -1,7 +1,7 @@
 # CrawlerAttempt
 Baiscally, this is a failed attempt at creating a simple web "crawler"  that would check if a given URL (stored in a .db file) is avialiable or whatsoever.
 
-To "successfully" run this "robot" you should clone the repository onto your workspace and open/launch it with your preferred IDE/code editor.
+To "successfully" run this "robot" you should download/clone the repository onto your workspace and open/launch it with your preferred IDE/code editor.
 
 The task is comleted by, I'd say, 90-95%, however the remaining 10-5% were supposed to update the HTTP status[checks it just fine] of the websites IN THE DATABASE (apart from all the other things causing an experienced java-develeloper lift his eyebrow up, this one is crucial).
 
